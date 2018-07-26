@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Traffic</string>
+    <string name="title_activity_maps">Je teste</string>
+    <string name="traffic_button">TRAFFIC</string>
+    <string name="sotra_button">SOTRA</string>
+    <string name="planification_button">PLANIFIER</string>
+</resources>
